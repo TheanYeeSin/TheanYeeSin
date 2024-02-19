@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm Thean Yee Sin from Malaysia<br><br>- 💻 I’m working as a Software Engineer<br>- 🧑‍🎓 Graduated, but keep learning<br>- 🏸 Hobby: Sport person, Computer Nerd, Trying to be a Polyglot</p>
+<p align="left">I'm Thean Yee Sin from Malaysia<br><br>- 💻 I’m working as a Software Engineer<br>- 🧑‍🎓 Graduated, but keep learning<br>- 🏸 Hobby: Sport person, Computer Nerd, Trying to be a Polyglot<br>- 🔗 Link: <a href="https://www.theanyeesin.com" target="_blank">
+    https://www.theanyeesin.com
+  </a></p>
 <div align="left">
   <a href="https://www.linkedin.com/in/thean-yee-sin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
