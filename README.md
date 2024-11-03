@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Thean Yee Sin from Malaysia<br><br>- 💻 I’m working as a Software Engineer<br>- 🧑‍🎓 Graduated, but keep learning<br>- 🏸 Hobby: Sport person, Computer Nerd, Trying to be a Polyglot, Gamer -> Wanna try game dev someday (Godot Enjoyer).<br>- 🔗 Link: <a href="https://www.theanyeesin.com" target="_blank">
+<p align="left">I'm Thean Yee Sin from Malaysia<br><br>- 💻 I’m working as a Software Engineer<br>- 🧑‍🎓 Graduated, but keep learning<br>- 🏸 Hobby: Sport person, Computer Nerd, Trying to be a Polyglot, Gamer, Learning game dev (Godot Enjoyer).<br>- 🔗 Link: <a href="https://www.theanyeesin.com" target="_blank">
     https://www.theanyeesin.com
   </a></p>
 <div align="left">
