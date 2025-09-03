@@ -12,6 +12,7 @@
 <li><b>Job:</b> Software Engineer</li>
 <li><b>Hobby:</b> Sports, Game, Tech</li>
 <li><b>Worked on:</b> Websites, Games, Mobile Apps</li>
+<li><b>Language:</b> Chinese, English, Malay, Japanese(N3), Korean(Learning)</li>
 <li><b>Link:</b> <a href="https://www.theanyeesin.com" target="_blank">https://www.theanyeesin.com</a></li>
 </p>
 <div align="left">
