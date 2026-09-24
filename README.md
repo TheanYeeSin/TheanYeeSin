@@ -91,15 +91,6 @@
 
 <br><br>
 
-<h1 align="center">- 𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 -</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheanYeeSin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheanYeeSin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br><br>
-
 <h1 align="center">- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 -</h2>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVwODdrbWpnNmwyOHU2cXR1ZTAyd3BiYTI1Yzc1enF6bDdzNXJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" align="left" width="260" height="300" />
